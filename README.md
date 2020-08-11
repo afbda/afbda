@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Aloisio
+#### I am a Full-Stack developer  in love with new tecnologies and a write in my free time.
+![I am a Full-Stack developer  in love with new tecnologies and a write in my free time.](https://devporai.com.br/wp-content/uploads/2019/11/DEV-POR-AÍ-3.png)
 
-<!--
-**afbda/afbda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently i'm working at Framework Systems as a Senior Full Stack Developer
 
-Here are some ideas to get you started:
+Skills: Angular/ VUE JS / REACT / JS / HTML / CSS / .Net Core
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/afbda)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=afbda&show_icons=true)  
+
