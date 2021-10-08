@@ -2,9 +2,13 @@
 #### I am a Full-Stack developer  in love with new tecnologies and a write in my free time.
 ![I am a Full-Stack developer  in love with new tecnologies and a write in my free time.](https://devporai.com.br/wp-content/uploads/2019/11/DEV-POR-AÍ-3.png)
 
-Currently i'm working at Framework Systems as a Senior Full Stack Developer
+Currently i'm working at Framework Systems as a Senior Full Stack Developer developing using Angular, .Net Core, SQL Server, Elastic Search, Azure Service Bus and Agile Methods.
+This project is for a big wealth company.
 
-Skills: Angular/ VUE JS / REACT / JS / HTML / CSS / .Net Core
+Skills: 
+    FrontEnd : Angular/ VUE JS / REACT / JS / HTML / CSS 
+    Backend: .Net Core, Node
+    SQL and NOSQL DB: SQL Server, MySQl, Elastic Search, Mongo, Oracle.
 
 
 
